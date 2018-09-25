@@ -6,7 +6,7 @@ WEATHER App
 A basic client-side weather app example.  
 Uses the [Open Weather Map API](http://openweathermap.org/api) to request weather data.
 
-## Webdesign
+## Web Design
 
 IDEA - Let's make a super simple weather appplication that runs on the web. You type in the name of a city and get the current temperature for that city. 
 
